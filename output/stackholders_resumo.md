@@ -1,0 +1,1 @@
+The free dictionary defines a stakeholder as, "A person with direct or indirect interest in an enterprise. This can include shareholders, employees, customers, suppliers, and government officials. They have some degree of control over the organization."
