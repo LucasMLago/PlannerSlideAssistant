@@ -1,5 +1,5 @@
 [tool.poetry]
-name = "SlideAssistant"
+name = "Slide Assistant"
 version = "0.1.0"
 description = "A assistant to make presentations in any topic and area"
 authors = ["Lucas Lago <lukemartinslagonit@gmail.com>"]
